@@ -1,0 +1,124 @@
+*{
+    -moz-appearance: none;
+    height:44px;
+    border-radius:45px;
+    color:black;
+}
+body{
+    background-image:url(1background.png);
+    background-repeat:no-repeat;
+    background-size:auto;
+    position:absolute;
+    left: 0;
+    right: 0
+    }
+.frame{
+    position: absolute;
+    top: 210px;
+    left: 513px;
+    width:920px;
+    height:643px;
+    border:1px solid #99ccff;
+    }
+.photo1{
+    position: absolute;
+    top:376px;
+    left:1124px;
+    width: 30px;
+    word-wrap: break-word;
+    letter-spacing: 20px;
+    font-size: 20px;
+}
+.photo{
+    position: absolute;
+    background: url(head.png);
+    background-color:white;
+    background-position: center;
+    background-repeat: no-repeat;
+    top: 294px;
+    left:1158px;
+    width:170px ;
+    height:204px ;
+    text-align: center;
+    font-display: none;
+}
+.public-header
+{
+    position: absolute;
+    left: 290px;
+    top: 100px;
+    font-style: italic;
+    font-size: 50px;
+    color: white;
+}
+.name{
+    position: absolute;
+    top: 294px;
+    left: 576px;
+    font-size: 20px;
+    width:1506px ;
+}
+.sex{
+    position: absolute;
+    top: 294px;
+    left: 834px;
+    font-size: 20px;
+}
+.major{
+    position: absolute;
+    top: 375px;
+    left:576px;
+    font-size: 20px;
+}
+.class{
+    position:absolute;
+    top:375px;
+    left:831px;
+    font-size: 20px;
+}
+.tel{
+    position:absolute;
+    top: 456px;
+    left: 576px;
+    height: 48px;
+    font-size: 20px;
+}
+.will1{
+    position: absolute;
+    top: 534px;
+    left:576px;
+    height: 45px;
+    font-size: 20px;
+}
+.will2{
+    position:absolute;
+    top: 534px;
+    left: 1011px;
+    height: 45px;
+    font-size: 20px;
+}
+.reason1{
+    position:absolute;
+    top:608px;
+    left:926px;
+    font-size: 20px; 
+}
+.reason2{
+    position:absolute;
+    top: 652px;
+    left:586px;
+    width:780px;
+    height: 110px;
+}
+.finish{
+    position:absolute;
+    top:792px;
+    left:880px;
+    background-color:#53acf3;
+    width: 158px;
+    height:50px;
+    font-size: 20px;
+    border-radius: 12px;
+    border:1px solid #53acf3;
+    box-shadow: 0 2px 4px 0;
+}
